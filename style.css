@@ -1,0 +1,23 @@
+.header_div{
+    width: 100%;
+    text-align: left;
+}
+.header_div h2{
+    display: inline;
+}
+.header_div button{
+    float: right;
+    font-size: 18px;
+}
+.start{
+    font-size: 17px;
+}
+#status{
+    font-size: 17px;
+}
+body{
+    background: url("https://png.pngtree.com/thumb_back/fh260/background/20190909/pngtree-colorful-doodle-animals-with-words-leaf-star-and-galaxy-combination-seamless-image_314365.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
